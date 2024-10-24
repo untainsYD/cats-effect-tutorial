@@ -18,6 +18,7 @@ package parallelism
 
 import cats.effect.*
 import cats.syntax.all.*
+
 import scala.concurrent.duration.*
 
 // The goal is to understand how to work with the concurrent tools in the Cats
